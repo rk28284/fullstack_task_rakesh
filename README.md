@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Fullstack Realtime To-Do List</title>
-</head>
+
+
 <body>
   <h1>📝 Fullstack Realtime To-Do List (WebSocket + Redis + MongoDB + React)</h1>
 
