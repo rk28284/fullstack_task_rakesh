@@ -35,7 +35,7 @@
 
   <h3>Backend</h3>
   <ol>
-    <li>Clone the repository</li>
+    <li>Clone the repository-https://github.com/rk28284/fullstack_task_rakesh_server</li>
     <li>Navigate to backend directory</li>
     <li>Install dependencies: <code>npm install</code></li>
     <li>Create a <code>.env</code> file with:
