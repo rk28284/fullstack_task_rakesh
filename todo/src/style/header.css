@@ -1,0 +1,30 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* equivalent to gap-2 */
+  margin-bottom: 1rem; /* mb-4 */
+}
+
+.header-logo {
+  width: 72px;
+  height: 72px;
+}
+
+@media (min-width: 768px) {
+  .header-logo {
+    width: 86px;
+    height: 86px;
+  }
+}
+
+.header-title {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+@media (min-width: 768px) {
+  .header-title {
+    font-size: 48px;
+  }
+}
